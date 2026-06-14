@@ -1,0 +1,1 @@
+[{"key":"pl3xmap_spawn","label":"Spawn","updateInterval":30,"showControls":true,"defaultHidden":false,"priority":10,"zIndex":500},{"key":"pl3xmap_worldborder","label":"World Border","updateInterval":30,"showControls":true,"defaultHidden":false,"priority":30,"zIndex":500}]
